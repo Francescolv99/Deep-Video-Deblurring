@@ -26,5 +26,5 @@ def ottieniImmagini(filename):
                 stampaImmagine(filename + '/' + cartella + '/' + lista_cartella[1] + '/' + immagine)
 
 
-ottieniImmagini('C:/Users/Gizam/OneDrive/Documenti/GitHub/Deep-Video-Deblurring/DeepVideoDeblurring_Dataset/qualitative_datasets')
+ottieniImmagini('C:/Users/Gizam/OneDrive/Desktop/DeepVideoDeblurring_Dataset/qualitative_datasets')
 
